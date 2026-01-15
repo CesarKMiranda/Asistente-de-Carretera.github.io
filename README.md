@@ -2,7 +2,7 @@
 
 ## PROYECTO "ASISTENTE DE CARRETERA AFN"
 
-Buen día, sean bienvenidos al repositorio de mi **proyecto "asistente de carretera AFN"**.
+Buen día, sean bienvenidos al repositorio de nuestro **proyecto "asistente de carretera AFN"**.
 
 Este documento sirve como guía para entender, estructurar y visualizar el proyecto **ASISTENTE DE CARRETERA AFN**, una interfaz web operativa diseñada para simular la interacción con un agente de IA especializado en soporte técnico logístico.
 
